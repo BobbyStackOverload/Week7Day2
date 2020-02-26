@@ -30,3 +30,5 @@ Card.prototype.getImageUrl = function(){
 }
 myCard.getImageUrl();
 
+const 
+
